@@ -1,0 +1,5 @@
+Key,Value
+PROTOCOL,https
+HOSTNAME,dev.splunk.com
+BASE_API_URL_MASTER,/api/v1/masterinfo
+BASE_API_URL_CLIENT,/api/v1/clientinfo
